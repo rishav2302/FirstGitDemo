@@ -1,3 +1,4 @@
 # FirstGitDemo
-This is my First Git Program
-Author Rishav Praatap.
+This is my First Git Program.
+<br>
+Author- Rishav Praatap.
