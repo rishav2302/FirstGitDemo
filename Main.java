@@ -16,7 +16,7 @@ class Main{
 
 	System.out.println("Main method");
 		
-
+	System.out.println(j);
 	System.out.println("Main Class");
 
 	}
