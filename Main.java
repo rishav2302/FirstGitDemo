@@ -6,7 +6,11 @@ class Main{
 	String name = "Rishu"
 	boolean b = false;
 
+
 	char ch = 'a';
+
+	double d = 456.0
+
 
 	public static void main(String args[]){
 	
